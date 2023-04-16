@@ -1,8 +1,12 @@
-Do you often go to library?   Yes, I often go to the library belongs to the company I work for.  There are not many books In this library in which just contains economic books, history books, and management books.  Besides,  There are some sofa and a few desks in the library. I don't leave this library until nine o'clock, because the company will pay the bill for taxi if I work late after nine o'clock.
+## Do you like art? 
+Definately, this is my cup of a tee / i am a art person. I think art includes painting, music, architectures, actions and so on. My favorite genre is electronic games which is a commendation of elements of I mentioned about.
 
-What do you usually do in the library?   It depends on my energy.   I usually go to the library at seven PM on weekday and I would keep learning such as computer science and English.   This time is important for me to prepare ielts test.  But if I feel tired and exhausted, I would rather have a nap rather than learning.
+## Do you like visiting art galleries?  
+Yes, of course I like visiting galleries several times a year before the lockdown due to the covid-19 in 2020. The exhibition that impressed me the most is related to painting held In Shanghai Art Museum, the theme is just the same as zima blue which is a masterpiece presented in one episode of an America TV series called Love Death and Robot. 
 
-Did you go to library when you were a kid?   I go to library almost every weekend when I'm a high school student.  I born in shandong, jinan and the distance between my home and  Shandong provincial library is not far.   So I use to do my homework and study in this library with my classmate.   Because I feel more efficient and easily to focus on my homework in this learning atmosphere.
+## Do you want to be an artist?   
+Honestly, coding is an new genre of modern art in my opinion, I could create new stuffs by computer, and in my work i translated what i created into reality by coding brand new exchange system. just same as what the artist do, isn't it?
 
-Do Chinese kids often go to library?   To be honest, I'm not sure for that. Cause I have been an adult for a long time.   I guess the kids don't often go to libraries, because library is boring. Kids tend to spend their time on taking lessons out of school curriculum to cultivate their interests.
+## Do you like modern art or traditional art?
+I prefer modern art espicial pop art since sometiome I couldn’t appreciate the mastpices of traditional art. In my leisure time, I’m willing to listen to absolute music. And I could play guitar for some rhythms of a renowned singer named Jay zhou, his song of maple is my favourate and in the song the depression due to some complex relationships in autumn is expressed.
 
