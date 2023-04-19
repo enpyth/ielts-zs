@@ -8,5 +8,5 @@ Yes, of course. I like visiting galleries several times a year before the lockdo
 Honestly, coding is an new genre of modern art in my opinion, I could create new stuffs by computer, and in my work I translated what I created into reality by coding new brand exchange system just same as what the artist do, isn't it?
 
 ## Do you like modern art or traditional art?
-I prefer modern art especially pop art since sometime I couldn’t appreciate the masterpiece of traditional art. In my leisure time, I’m willing to listen to absolute music. And I could play guitar for some rhythms of a renowned singer named Jay zhou, his song of maple is my favourite and in the song the depression due to some complex relationships in autumn is expressed.
+I prefer modern art especially pop music since sometime I couldn’t appreciate the masterpiece of traditional art. In my leisure time, I’m willing to listen to absolute music. And I could play guitar for some rhythms of a renowned singer named Jay zhou, his song of maple is my favourite and in the song the depression due to some complex relationships in autumn is expressed.
 
