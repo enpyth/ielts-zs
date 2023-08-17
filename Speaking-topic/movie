@@ -3,20 +3,16 @@
 # 错误信息
 
 Everything Everywhere All at Once
-multiverse
-
-
-我来自一个有典型东亚问题的、不太快乐的原生家庭：自负却没本事的自卑父亲；被贬低被使唤的软弱母亲；事业有成严厉不近人情的祖父。一直在闹离婚的夫妻关系；父母对小孩子抱怨、攻击家庭成员；小孩子被孝道绑架、而不得不“顺从”并没多少爱意的祖父。
-
-爱拯救一切
-
 
 At the 95th Academy Awards in March this year, Everything Everywhere All at Once made a clean sweep and won servious of awards, including best film, best director and best original script, and helped Chinese actress Michelle Yeoh and Guan Jiwei win the best actress and best supporting actor awards respectively. 
 
-1) That sounds great, right? Those completely confused me.
-2) Michelle Yeoh set the benchmark for 美丽的外貌和电影里的矫捷身姿，已成为东方动作女演员的一个象征，可以说是美丽、优雅与力量的混合体，她是观众对恩怨情仇的武侠世界的一个幻想，也是浪漫主义者内心深处的侠女神话。
-3) That sounds great, right? Those completely confused me.
+1) That sounds great, right? The film completely disappointed me.
+2) Having been a symbol of Eastern action actresses, Michelle Yeoh set the benchmark for Chinese kongfu performed by a women. She has a beautiful appearance and a agile figure from movies, which can be said to be a blend of beauty, elegance, and strength.
+3) That sounds great, right? Those information completely confused me.
 
-Michelle Yeoh 在这部影片中break the ground 颠覆美丽优雅的形象，将疲惫不堪的洗衣店老板伊芙琳诠释得入木三分。But the movie don't meet my expetation and disappointed me. 总的来说让我感觉这是奖项驱动的作品，这个影片迎合了西方政治正确的刻板印象，比如一个有典型东亚问题的、不太快乐的原生家庭：自负却没本事的自卑父亲；被贬低被使唤的软弱母亲；事业有成严厉不近人情的祖父。并以科幻的形式在multiverse中，亚洲少数族裔在multicultural society中的刻板印象艰难生活然后突然有一天爱拯救了一切。
+Instead of having the beautiful and elegant image in this film, Michelle Yeoh portraying the exhausted laundry owner to the core. But the movie doesn't meet my expectation and disappointed me. 
 
-The problem is called overfitting: If we supply too much data into our model creation, the model will actually be created perfectly, but just for that data. The blockbuster swept the board but i detest the overfitting data.
+It makes me feel like this is an award driven work. This film caters to people's stereotypical impressions of Asian families, such as a typical East Asian problem with an unhappy native family, including a proud but incompetent father, a weak mother who is busy for raising children and doing household chores, and a successful, stern but unfriendly grandfather. Make a difficult living in multicultural society, the Aisa suddenly realized that life is the most important thing, and then love has saved everything.
+
+The file is same as a phenomenon called overfitting: If we supply too much data into our model, the model will be created perfectly, but just for that data. The blockbuster swept the board, but I detest the overfitting data.
+
